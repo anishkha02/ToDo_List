@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "819250527987",
+    "project_id": "todolistfirebase-3026e",
+    "storage_bucket": "todolistfirebase-3026e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819250527987:android:315edfd24df8ff86f8c186",
+        "android_client_info": {
+          "package_name": "com.example.todolist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCynwe071aEbvutENp2eJJRsDC4C0zJ4MQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
